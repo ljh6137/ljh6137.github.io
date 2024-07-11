@@ -1,11 +1,11 @@
 # Site settings
 title: ljh Blog
-SEOTitle: ljh的博客 | ljh Blog
+SEOTitle: ljh Blog
 header-img: img/home-bg.jpg
 email: ljh44126@gmail.com
-description: "这里是ljh的博客"
-keyword: "日常"
-url: "https://huangxuan.me" # your host, for absolute URL
+description: "share my daily life"
+keyword: "daily"
+url: "" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
